@@ -1,3 +1,3 @@
-module github.com/valeraBerezovskij/cache
+module cache
 
 go 1.23.4
